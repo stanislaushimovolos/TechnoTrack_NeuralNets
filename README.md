@@ -8,5 +8,5 @@ Tasks for TechnoTrack Neural Networks course
 - [Task 7 - Reinforcement learning: DQN model](https://github.com/stanislaushimovolos/TechnoTrack_NeuralNets/blob/master/ReinforcementLearning/DQN_Brekout.ipynb)<br />
 - [Task 8 - RNNs: LSTM + GRU implementation](https://github.com/stanislaushimovolos/TechnoTrack_NeuralNets/blob/master/RecurrentNNs/LSTM_GRU.ipynb)<br />
 - [Task 9 - Attention model: Neural Machine Translation](https://github.com/stanislaushimovolos/TechnoTrack_NeuralNets/blob/master/Attention/Shimovolos_S_A.ipynb)<br />
-- [Task 10 - Coming soon...] <br />
+- Task 10 - Coming soon... <br />
 - [Task 11 - Speech Recongition: CTC loss](https://github.com/stanislaushimovolos/TechnoTrack_NeuralNets/blob/master/SpeechRecognition/CTC_loss.ipynb)
